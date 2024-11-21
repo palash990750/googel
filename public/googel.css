@@ -1,0 +1,16 @@
+.box{
+    display: block;
+    text-align: center;
+}
+.search{
+    display: flex;
+    text-align: center;
+    box-shadow: 5px;
+    padding: 20px;
+    margin-left: 500px;
+    border-radius: 30px;
+}
+.head{
+    display: flex;
+    
+}
